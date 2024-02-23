@@ -1,0 +1,10 @@
+path: /opt/ml/input/data/
+
+train: train/  # Updated path for training data
+val: validation/  # Updated path for validation data
+
+
+# Classes
+names:
+  0: 'Boundaries'
+

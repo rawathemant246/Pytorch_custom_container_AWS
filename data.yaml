@@ -1,0 +1,8 @@
+
+train: /home/sagemaker-user/Boundary_dataset/train/images  # Updated path for training data
+val: /home/sagemaker-user//Boundary_dataset/valid/images  # Updated path for validation data
+
+# Classes
+names:
+  0: 'Boundaries'
+

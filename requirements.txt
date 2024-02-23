@@ -1,0 +1,4 @@
+ultralytics
+sagemaker
+sagemaker-training
+tensorflow
